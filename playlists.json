@@ -33,5 +33,13 @@
     "type": "album",
     "year": 2008,
     "artist": "Shadmehr Aghili"
+  },
+
+  {
+    "id": "1uWliB2vC6wBTRObGxd5I3",
+    "name": "Singles",
+    "type": "singles",
+    "year": 0,
+    "artist": "Shadmehr Aghili"
   }
 ]
